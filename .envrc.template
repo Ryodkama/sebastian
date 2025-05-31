@@ -1,0 +1,5 @@
+. .venv/bin/activate
+
+export JIRA_SERVER_URL=""
+export JIRA_API_TOKEN=""
+export JIRA_USERNAME=""
